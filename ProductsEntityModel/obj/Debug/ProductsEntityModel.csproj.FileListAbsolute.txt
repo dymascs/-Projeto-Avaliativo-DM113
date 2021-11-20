@@ -1,0 +1,14 @@
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll.config
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\bin\Debug\ProductsEntityModel.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\bin\Debug\ProductsEntityModel.pdb
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.AssemblyReference.cache
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.CopyComplete
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\obj\Debug\ProductsEntityModel.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\obj\Debug\ProductsEntityModel.pdb
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\obj\Debug\ProductsEntityModel.Migrations.Criando_o_Banco.resources
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsEntityModel\obj\Debug\ProductsEntityModel.csproj.GenerateResource.cache
