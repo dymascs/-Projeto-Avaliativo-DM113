@@ -5,14 +5,14 @@
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ProductsEntityModel.ProductsModel>
+    internal sealed class Configuration : DbMigrationsConfiguration<ProductsEntityModel.ProvedorEstoque>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(ProductsEntityModel.ProductsModel context)
+        protected override void Seed(ProductsEntityModel.ProvedorEstoque context)
         {
             context.Products.AddOrUpdate(
                 pe => pe.Id,

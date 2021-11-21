@@ -58,7 +58,7 @@
       <DependentUpon>202111202135553_Criando_o_Banco.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="ProductsModel.cs" />
+    <Compile Include="ProvedorEstoque.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
