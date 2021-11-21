@@ -17,6 +17,8 @@ namespace ProductsClient1
 
                 ProductsServiceClient proxy = new ProductsServiceClient("BasicHttpBinding_IProductsService");
 
+                Console.WriteLine("Teste Cliente 1");
+                Console.WriteLine();
 
                 Console.WriteLine("1: Adicionar o produto 11");
                 ProductData productData = new ProductData()
@@ -58,77 +60,77 @@ namespace ProductsClient1
                 {
                     Console.WriteLine("Nome do produto: {0}", Nome);
 
-
-                    Console.WriteLine();
-
-
-                    Console.WriteLine("4: Mostrar informações do produto 2");
-                    ProductData product = proxy.VerProduto("2000");
-                    Console.WriteLine("Número do produto: {0}", product.NumeroProduto);
-                    Console.WriteLine("Nome do produto: {0}", product.NomeProduto);
-                    Console.WriteLine("Descrição do produto: {0}", product.DescricaoProduto);
-                    Console.WriteLine("Estoque de produto: {0}", product.EstoqueProduto);
-
-                    Console.WriteLine();
-
-
-                    Console.WriteLine("5: Adicionar estoque para produto 2");
-                    if (proxy.AdicionarEstoque("2000", 10))
-                    {
-                        Console.WriteLine("Estoque adicionado com sucesso!");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Erro ao adicionar estoque");
-                    }
-
-                    Console.WriteLine();
-
-
-                    Console.WriteLine(" 6: Verificar estoque do produto 2");
-                    Console.WriteLine("Estoque produto 2: {0}", proxy.ConsultarEstoque("2000"));
-                    Console.WriteLine();
-
-
-                    Console.WriteLine("7: Verificar estoque do produto 1");
-                    Console.WriteLine("Estoque do produto 1: {0}", proxy.ConsultarEstoque("1000"));
-                    Console.WriteLine();
-
-
-
-                    Console.WriteLine("8: Remover estoque do produto 1");
-                    if (proxy.RemoverEstoque("1000", 20))
-                    {
-                        Console.WriteLine("Estoque removido com sucesso!");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Erro ao remover estoque do produto 1!");
-                    }
-
-                    Console.WriteLine();
-
-
-                    Console.WriteLine("9: Verificar estoque do produto 1 novamente");
-                    Console.WriteLine("Estoque do produto 1 novamente: {0}", proxy.ConsultarEstoque("1000"));
-                    Console.WriteLine();
-
-
-                    Console.WriteLine("10: Ver informações do produto 1");
-                    ProductData product1 = proxy.VerProduto("1000");
-                    Console.WriteLine("Número do produto: {0}", product1.NumeroProduto);
-                    Console.WriteLine("Nome do produto: {0}", product1.NomeProduto);
-                    Console.WriteLine("Descrição do produto: {0}", product1.DescricaoProduto);
-                    Console.WriteLine("Estoque de produto: {0}", product1.EstoqueProduto);
-
-                    Console.WriteLine();
-
-                    proxy.Close();
-                    Console.WriteLine("Press ENTER to finish");
-                    Console.ReadLine();
-
-
                 }
+                Console.WriteLine();
+
+
+                Console.WriteLine("4: Mostrar informações do produto 2");
+                ProductData product = proxy.VerProduto("2000");
+                Console.WriteLine("Número do produto: {0}", product.NumeroProduto);
+                Console.WriteLine("Nome do produto: {0}", product.NomeProduto);
+                Console.WriteLine("Descrição do produto: {0}", product.DescricaoProduto);
+                Console.WriteLine("Estoque de produto: {0}", product.EstoqueProduto);
+
+                Console.WriteLine();
+
+
+                Console.WriteLine("5: Adicionar estoque para produto 2");
+                if (proxy.AdicionarEstoque("2000", 10))
+                {
+                    Console.WriteLine("Estoque adicionado com sucesso!");
+                }
+                else
+                {
+                    Console.WriteLine("Erro ao adicionar estoque");
+                }
+
+                Console.WriteLine();
+
+
+                Console.WriteLine(" 6: Verificar estoque do produto 2");
+                Console.WriteLine("Estoque produto 2: {0}", proxy.ConsultarEstoque("2000"));
+                Console.WriteLine();
+
+
+                Console.WriteLine("7: Verificar estoque do produto 1");
+                Console.WriteLine("Estoque do produto 1: {0}", proxy.ConsultarEstoque("1000"));
+                Console.WriteLine();
+
+
+
+                Console.WriteLine("8: Remover estoque do produto 1");
+                if (proxy.RemoverEstoque("1000", 20))
+                {
+                    Console.WriteLine("Estoque removido com sucesso!");
+                }
+                else
+                {
+                    Console.WriteLine("Erro ao remover estoque do produto 1!");
+                }
+
+                Console.WriteLine();
+
+
+                Console.WriteLine("9: Verificar estoque do produto 1 novamente");
+                Console.WriteLine("Estoque do produto 1 novamente: {0}", proxy.ConsultarEstoque("1000"));
+                Console.WriteLine();
+
+
+                Console.WriteLine("10: Ver informações do produto 1");
+                ProductData product1 = proxy.VerProduto("1000");
+                Console.WriteLine("Número do produto: {0}", product1.NumeroProduto);
+                Console.WriteLine("Nome do produto: {0}", product1.NomeProduto);
+                Console.WriteLine("Descrição do produto: {0}", product1.DescricaoProduto);
+                Console.WriteLine("Estoque de produto: {0}", product1.EstoqueProduto);
+
+                Console.WriteLine();
+
+                proxy.Close();
+                Console.WriteLine("Press ENTER to finish");
+                Console.ReadLine();
+
+
+                
             }
         }
     }

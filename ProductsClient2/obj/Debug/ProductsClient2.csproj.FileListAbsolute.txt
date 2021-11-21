@@ -1,0 +1,6 @@
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsClient2\bin\Debug\ProductsClient2.exe.config
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsClient2\bin\Debug\ProductsClient2.exe
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsClient2\bin\Debug\ProductsClient2.pdb
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsClient2\obj\Debug\ProductsClient2.csproj.CoreCompileInputs.cache
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsClient2\obj\Debug\ProductsClient2.exe
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsClient2\obj\Debug\ProductsClient2.pdb
