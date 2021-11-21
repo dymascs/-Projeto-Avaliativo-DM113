@@ -1,0 +1,15 @@
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\obj\Debug\ProductsService.csproj.AssemblyReference.cache
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\obj\Debug\ProductsService.csproj.CoreCompileInputs.cache
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\ProductsService.dll.config
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\ProductsService.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\ProductsService.pdb
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\EntityFramework.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\EntityFramework.SqlServer.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\ProductsEntityModel.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\ProductsEntityModel.pdb
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\ProductsEntityModel.dll.config
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\EntityFramework.xml
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\bin\EntityFramework.SqlServer.xml
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\obj\Debug\ProductsService.csproj.CopyComplete
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\obj\Debug\ProductsService.dll
+C:\Users\PC-GAMER\Documents\POS\-Projeto-Avaliativo-DM113\ProductsEntityModel\ProductsService\obj\Debug\ProductsService.pdb
